@@ -1,32 +1,18 @@
 ---
-title: About us
-date: 2017-01-01T00:00:00.000Z
+title: About
+date: 2020-07-21T01:47:30.474Z
 permalink: /about/index.html
 eleventyNavigation:
   key: About
   order: 1
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Hi, I’m Matt Bahr. I’m the founder & CEO of [EnquireLabs](https://enquirelabs.com/) where our mission is to power every attribution survey (i.e. “how did you hear about us?”) on the Internet. We currently serve over 2 million surveys per month.
 
-Add a few line breaks in here to test:-
-Capitalize  
-on  
-low  
-hanging  
-fruit  
+I also advise and consult for wide range of companies, from direct-to-consumer brands to large public companies. Prior to founding EnquireLabs, I was an early employee at [Master & Dynamic](https://masterdynamic.com/), a DTC premium headphone company.
 
-## Our services
+I currently reside in Brooklyn, NY. You can reach me at **bahr@hey.com.** Outside of work, I enjoy spending time with family and friends, playing music (guitar/piano), chess (add me chess.com, mattrbahr), and cooking.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-### Blue-sky thinking
-
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-#### Management frameworks
-
-Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-##### Regulatory convergence
-
-Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+[Quantified - Shopify Analytics Blog](https://quantified.blog/)\
+[Personal Blog](http://127.0.0.1:4000/posts)\
+[Twitter](https://www.linkedin.com/in/mattrbahr/)\
+[LinkedIn](https://www.linkedin.com/in/matthewbahr/)
