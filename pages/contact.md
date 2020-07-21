@@ -6,6 +6,6 @@ date: 2020-07-01
 permalink: /contact/index.html
 eleventyNavigation:
   key: Contact
-  order: 3
+  order: 4
 ---
-Looking to chat. Feel free to get in touch. 
+Feel free to reach out! 
