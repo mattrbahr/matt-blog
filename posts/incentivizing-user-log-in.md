@@ -6,38 +6,19 @@ summary: When was the last time you logged into a DTC's brand's website?
 tags:
   - ecommerce
 ---
-Purchase frequency is the independent variable correlated with log-in frequency. If you purchase often from an ecom site, you're more likely to log-in (a la Amazon) or already be logged in vs. not. 
+When was the last time you logged-in to a brand's website? For me, it's not often. There's rarely any value after entering your username and password. Shopify's dedication to Shop Pay which lives solely in the checkout vs. vaulting credit cards with user accounts within individual stores hasn't helped the cause. Their mobile app, Shop, is now providing more value to your customers than you are. 
 
-It's gotten better, but historically Shopify 
+If you're making monthly purchases, there's still very little reason to log-in. The number one reason you log-in and stay logged into Amazon is to access your saved shipping address and credit card information for an easy frictionless checkout. 
 
-Account pages can be greatly improved upon by simply pulling out additional order information about previous items purchased. 
+Over the past decade, website personalization in ecommerce has morphed into a solution that is predicated on watching not listening to users. First we take every user action, page-view, click, transaction, etc push it into a black box and in-return our sites our *somewhat* personalized with product recommendations and discount codes. 
 
-Personalization over the past decade has matured into a solution that collects massive streams of data about what you do on a specific site, what you purchase, what emails you click on, and so on, stuffs it into a fancy algorithm and thereafter sends you specific product recommendations via email or pops up. 
 
-Customers who back in brick and mortar days were "Jane Smith" have been transformed into \`customer 123\`.
 
 
 
 Was this item for you or was it a gift? Is this your size or a size of someone else? 
 
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
 When was the last time you logged into a DTC's brand's website? Why would you? If you're like me, you're most likely always logged into Amazon. There's little reason why you would ever log-in to a DTC's brands website, there's no incentive to do so. 
-
-
-monoa
 Ecommerce has turned people into pixels. 
 
 Building 1:1 relationships at scale is difficult, borderline impossible. A bygone era involved a connection between store clerk and consumer, with ecommerce that's certainly disipated. Customers have evolved from Mary Smith to `Customer ID 234293`. 	
