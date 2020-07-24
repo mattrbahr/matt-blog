@@ -12,9 +12,9 @@ It's gotten better, but historically Shopify
 
 Account pages can be greatly improved upon by simply pulling out additional order information about previous items purchased. 
 
-Personalization over the past decade has matured into a solution that collects massive streams of data about what you do on a specific site, what you purchase, what emails you click on, and so on, stuffs it into a fancy algorithm and thereafter sends you specific product recommendations via email or pops up "looking for a discount code? click here". 
+Personalization over the past decade has matured into a solution that collects massive streams of data about what you do on a specific site, what you purchase, what emails you click on, and so on, stuffs it into a fancy algorithm and thereafter sends you specific product recommendations via email or pops up. 
 
-Take
+Customers who back in brick and mortar days were "Jane Smith" have been transformed into \`customer 123\`.
 
 
 
