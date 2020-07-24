@@ -10,8 +10,6 @@ When was the last time you logged into a DTC's brand's website? Why would you? I
 monoa
 Ecommerce has turned people into pixels. 
 
-![image-title-here](/img/real-time-screenshot.png){: .center-image }
-
 Building 1:1 relationships at scale is difficult, borderline impossible. A bygone era involved a connection between store clerk and consumer, with ecommerce that's certainly disipated. Customers have evolved from Mary Smith to `Customer ID 234293`. 	
 
 Sell users on becoming part of your community.
