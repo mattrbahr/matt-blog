@@ -1,5 +1,5 @@
 ---
-title: Incentivizing User Log-in
+title: Optimizing User Accounts To Incentivize User Log-in
 date: 2020-07-24T17:21:04.583Z
 author: Matt Bahr
 summary: When was the last time you logged into a DTC's brand's website?
