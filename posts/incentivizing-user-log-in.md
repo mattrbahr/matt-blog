@@ -6,7 +6,37 @@ summary: When was the last time you logged into a DTC's brand's website?
 tags:
   - ecommerce
 ---
+Purchase frequency is the independent variable correlated with log-in frequency. If you purchase often from an ecom site, you're more likely to log-in (a la Amazon) or already be logged in vs. not. 
+
+It's gotten better, but historically Shopify 
+
+Account pages can be greatly improved upon by simply pulling out additional order information about previous items purchased. 
+
+Personalization over the past decade has matured into a solution that collects massive streams of data about what you do on a specific site, what you purchase, what emails you click on, and so on, stuffs it into a fancy algorithm and thereafter sends you specific product recommendations via email or pops up "looking for a discount code? click here". 
+
+Take
+
+
+
+Was this item for you or was it a gift? Is this your size or a size of someone else? 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
 When was the last time you logged into a DTC's brand's website? Why would you? If you're like me, you're most likely always logged into Amazon. There's little reason why you would ever log-in to a DTC's brands website, there's no incentive to do so. 
+
+
 monoa
 Ecommerce has turned people into pixels. 
 
