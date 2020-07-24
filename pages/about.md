@@ -13,6 +13,5 @@ I also advise and consult for wide range of companies, from direct-to-consumer b
 I currently reside in Brooklyn, NY. Outside of work, I enjoy spending time with family and friends, playing music (guitar/piano), chess (add me on chess.com, mrbahr), and cooking.
 
 [Quantified - Shopify Analytics Blog](https://quantified.blog/)\
-[Personal Blog](http://127.0.0.1:4000/posts)\
 [Twitter](https://www.linkedin.com/in/mattrbahr/)\
 [LinkedIn](https://www.linkedin.com/in/matthewbahr/)
