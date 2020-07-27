@@ -6,28 +6,41 @@ summary: When was the last time you logged into a DTC's brand's website?
 tags:
   - ecommerce
 ---
-When was the last time you logged-in to a brand's website? For me, it's been a while. Even though the brand or online store knows exactly who I am and what I've purchased before, there's rarely any value after entering my username and password. 
+For me, it's been a while. When I'm logged in, the brand or online store knows exactly who I am and what I've purchased before, yet there's rarely any value after entering my username and password. 
 
 ![Allbirds.com Logged-In State](/static/img/allbirds-logged-in-account-page.png "Allbirds Account Page")
 
-Over the years, website personalization in ecommerce has morphed into a solution predicated on watching not listening to users. First we take every user action, page-view, click, transaction, etc, push it into a black-box, and in-return we get personalized product recommendations an automate discounting.
+Shopify, the platform most of these DTC brands operate on, hasn't made it easy to reduce log-in friction either. Their focus on Shop Pay at checkout and not higher up on the funnel means users still need to log-in with a username and password. Their mobile app, Shop, in the near future may start providing more value to your existing customers than you can. 
+
+Over the years, website personalization in ecommerce has morphed into a solution predicated on watching not listening to users. First we take every user action, page-view, click, transaction, etc, and push it into a black-box. In-return we get personalized product recommendations and automated discounting. The "magic" has never really felt quite magical.
+
+As transactions move online, communication between store and customer dwindle. 1:1 relationships are no longer feasible. Product recommendations pre-internet weren't powered by complex algorithms but by store associates knowing a long-time customers likes and interests. 
+
+## Incentivizing User Log In
+
+Stores have an opportunity to build better relationships and trust by creating better experiences for users who are logged in. Offer exclusive discount codes on account pages, pre-launch products only available to users who are logged-in, increase return window for loyal users, the list goes on.
+
+Right now, being part of brands' community, means following them on social and subscribing to their email list.   Exclusivity on both channels seems forged. By building more interactive logged-in sates, your customers will have the opportunity to interact with you in a way they couldn't have otherwise.
+
+The best example I've personally seen of a great logged-in experience is Mack Weldon's. They clearly invested a lot of time and resources to optimize the account pages for repeat buyers.
+
+![Mack Weldon Logged-in Account Page](/static/img/mack-weldon-account-page.png "Mack Weldon Logged-in Account Page")
+
+Their investment in a customer loyalty program and clearly communicating how it work is very much working (anecdotally, at least). The value is enough that I log in every time I go to the site. 
+
+![Mack Weldon Loyalty](/static/img/mack-weldon-loyalty-page.png "Mack Weldon Loyalty ")
+
+They could push this experience to the next level by surfacing further information about their program and my past purchase behavior throughout the site. A great example of this would be to show my previous purchased size on PDPs. Bonobos does an exceptional job at this.
 
 
 
 
 
-Shopify's dedication to Shop Pay which lives solely in the checkout vs. vaulting credit cards with user accounts within individual stores hasn't helped the cause. Their mobile app, Shop, is now providing more value to your customers than you are. 
+## Learning About Your Users By Asking
 
-If you're making monthly purchases, there's still very little reason to log-in. The number one reason you log-in and stay logged into Amazon is to access your saved shipping address and credit card information for an easy frictionless checkout. 
-
-First we take every user action, page-view, click, transaction, etc push it into a black box and in-return our sites our *somewhat* personalized with product recommendations and discount codes. 
+Stores have
 
 Was this item for you or was it a gift? Is this your size or a size of someone else? 
-
-When was the last time you logged into a DTC's brand's website? Why would you? If you're like me, you're most likely always logged into Amazon. There's little reason why you would ever log-in to a DTC's brands website, there's no incentive to do so. 
-Ecommerce has turned people into pixels. 
-
-Building 1:1 relationships at scale is difficult, borderline impossible. A bygone era involved a connection between store clerk and consumer, with ecommerce that's certainly disipated. Customers have evolved from Mary Smith to `Customer ID 234293`. 	
 
 Sell users on becoming part of your community.
 Create products your community loves and convert them to customers.
