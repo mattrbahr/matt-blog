@@ -1,12 +1,13 @@
 ---
-title: Incentivizing User Log-in on Your Ecommerce Site
-date: 2020-07-24T17:21:04.583Z
+title: "Create Valuable Account Pages to Incentivize User Log-in "
+date: 2020-07-27T14:49:23.990Z
 author: Matt Bahr
-summary: When was the last time you logged into a DTC's brand's website?
+summary: When was the last time you logged into a DTC's brand's website? For me,
+  it's been a while.
 tags:
   - ecommerce
 ---
-For me, it's been a while. When I'm logged in, the brand or online store knows exactly who I am and what I've purchased before, yet there's rarely any value after entering my username and password. 
+When was the last time you logged into a DTC's brand's website? For me, it's been a while. When I'm logged in, the brand or online store knows exactly who I am and what I've purchased before, yet there's rarely any value after entering my username and password. 
 
 ![Allbirds.com Logged-In State](/static/img/allbirds-logged-in-account-page.png "Allbirds Account Page")
 
