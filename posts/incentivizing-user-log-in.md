@@ -1,5 +1,5 @@
 ---
-title: Incentivize User Log-in
+title: Incentivizing User Log-in on Your Ecommerce Site
 date: 2020-07-24T17:21:04.583Z
 author: Matt Bahr
 summary: When was the last time you logged into a DTC's brand's website?
