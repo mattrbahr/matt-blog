@@ -30,49 +30,27 @@ Their investment in a customer loyalty program and clearly communicating how it 
 
 ![Mack Weldon Loyalty](/static/img/mack-weldon-loyalty-page.png "Mack Weldon Loyalty ")
 
-They could push this experience to the next level by surfacing further information about their program and my past purchase behavior throughout the site. A great example of this would be to show my previous purchased size on PDPs. Bonobos does an exceptional job at this.
+They could push this experience to the next level by surfacing further information about their program and my past purchase behavior throughout the site. A great example of this would be to show my previous purchased size on PDPs. Bonobos does an exceptional job at this -- select your fit and the entire site is personalized to only show you what's in stock that fits you. 
 
+![Bonobos My Fit](/static/img/bonobos-my-fit.png "Bonobos My Fit")
 
+## Learn By Asking
 
+Knowing why someone bought from you or who a purchase was for will certainly help you build better relationships and market to your customers. Walk into a store and you may hear "Who are you shopping for?". Post purchase, brands have the ability to ask these questions directly on the account page. Was this purchase a gift? Is this your size? Would you purchase this if we create it? The list goes on. 
 
+## Log-in Friction
 
-## Learning About Your Users By Asking
+Log-in friction still needs to be reduced. Companies like [Fast](https://fast.co) are certainly focused on doing this as they see the value in allowing consumers to never have to remember another password again. Until then, build a better account experience and customers will remember their passwords. They certainly do for Amazon. 
 
-Stores have
+## Logged-In User Personalization Ideas
 
-Was this item for you or was it a gift? Is this your size or a size of someone else? 
+The below is a list of ideas you can implement to customize the user experience once a user is logged-in. All except product recommendations don't involve complex 
 
-Sell users on becoming part of your community.
-Create products your community loves and convert them to customers.
-Build an experience for your customers.
-
-## Outline
-
-* The ecommerce era have made 1:1 relationships are a thing of the past
-  		* Examples local store clerk and Nordstroms
-* At EnquireLabs, we preach participatory marketing, the idea that you should market with your customers, not at them.
-  		 *Participartory marketing is this concept of advertising with your customers, rather than at them.* 
-  		 How do you build relationships with your customers if they're just to a session on your site? 
-* Build a closer connection by talking to your customer and tailoring their experience their needs.
-  		 *This* tailorization* is often referred to as personalization. THe majority of personalization tech today, takes previous cookied browser behavior and "personalizes" the user experience based on some blackbox optimization algorithm. User viewed X, show them Y. 
-*
-
-## Log-In Data
-
-* Pull data from Shopify stores and show how often users are logging in
-* Or even have an account for that matter
-
-## Incentive User Log-in
-
-When was the last time you were encouraged to log-in to an ecommerce website other than Amazon (or the like)? The DTC brands I'm a repeat customer at, I do not log-in prior to purchasing again, I simply add items to my cart and check-out. 
-
-Screenshots of account pages
-
-* why should I create an account? remember a new password? give up my email? 
-
-Turning ids into customers.
-
-To make data analysis easier
+* **Personalized return policy:** provide loyal users with personalized return policies. I've chatted in length about this with [Liesl Chang](https://www.linkedin.com/in/lieslchang/). Opportunity to change returns from cost center to profit center.
+* **My Fit:** allow users to enter their fit information, then personalize the front-end shopping experience to what's available in their size.
+* **Current Promotions:** display current live promotions to users directly in their account page. Contrary to these living in emails, if users are in a buying mode they log-in to your site to see any deals.
+* Access to Exclusive Products: create a deeper sense of exclusivity by creating collections on accessible to those who create accounts and are logged-in. 
+* 
 
 Solving complex problems, with simple solutinos. The majority of ecommerce personalization tech today, takes previous cookied browser behavior and "personalizes" the user experience based on some blackbox optimization algorithm. 
 
