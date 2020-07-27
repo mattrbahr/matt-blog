@@ -49,51 +49,10 @@ The below is a list of ideas you can implement to customize the user experience 
 * **Personalized return policy:** provide loyal users with personalized return policies. I've chatted in length about this with [Liesl Chang](https://www.linkedin.com/in/lieslchang/). Opportunity to change returns from cost center to profit center.
 * **My Fit:** allow users to enter their fit information, then personalize the front-end shopping experience to what's available in their size.
 * **Current Promotions:** display current live promotions to users directly in their account page. Contrary to these living in emails, if users are in a buying mode they log-in to your site to see any deals.
-* Access to Exclusive Products: create a deeper sense of exclusivity by creating collections on accessible to those who create accounts and are logged-in. 
-* 
-
-Solving complex problems, with simple solutinos. The majority of ecommerce personalization tech today, takes previous cookied browser behavior and "personalizes" the user experience based on some blackbox optimization algorithm. 
-
-### Improve Your Customer Experience
-
-* Customized return options
-* Access to special products
-* Sizing made simple (AllBirds PDPs)
-* Faster shipping times
+* **Access to Exclusive Products:** create a deeper sense of exclusivity by creating collections only accessible to those who create accounts and are logged-in. 
+* **Provide Faster Shipping Times to Loyal Customers:** log-in to know when items will be delivered to you.
+* **Collect Addition Preferences:** instead of tracking user behavior simply ask them their preferences. They'll be grateful for it if it's clear why you're asking.
 
 ### Increase Marketing Attribution Accuracy
 
-* Improved cross device attribution with implementation of GA's User ID
-
-### Build Better Relationships With Your Customers
-
-* the benevolence of brands and do you even want to allow them to know who you are?
-
-I'm logged in.
-I'm giving you something by logged in, now you give me something. Mutual respect.
-https://wearwone.com/, used to be log-in wall, not anymore
-
-## Implementation
-
-No one wants to remember their password to your brand website.
-
-Don't force user log-in, but make it desirable. 
-
-Back in ~2012, forcing users to log-in was very common practice (find example). The pitch was undoubtably to give brands more data about who their customers were to allow them to better market to them. The *why* was never truly explained to the consumer out side of "create an account to proceed". 
-
-There are plenty user-login apps on Shopify. 
-
-Domm at Fast is focusing on solving this problem. Reduce friction. 
-
-* Increase speed of log-in
-  			 *H/T to @Fast* 
-  				 Fast alternatives (Apple Log-in, Google, Facebook, Twitter, etc.)
-  				* Sign-in with Facebook attempted to solve this
-
-## Data Collection
-
-Drive home participatory marketing. Market to people over pixels. 
-
-Ask relevant questions, build relationships and personalizated experiences. 
-
-Take `user_id: 39391` and turn that into Mary Smith.
+If implemented correctly, well executed account pages are a win-win. You can build a stronger connection to your customers and you'll also be given a new data set that makes marketing attribution much easier. I rarely see GA's User-ID view implemented given there's little value in doing so–no one logs in! By incentivizing user-login, a users path-to-purchase will become all the much clearer given we won't be using misleading cookie or device data to build the user journey, we can transform `user_id: 39391` into "Mary Smith".
