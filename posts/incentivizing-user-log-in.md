@@ -6,15 +6,21 @@ summary: When was the last time you logged into a DTC's brand's website?
 tags:
   - ecommerce
 ---
-When was the last time you logged-in to a brand's website? For me, it's not often. There's rarely any value after entering your username and password. Shopify's dedication to Shop Pay which lives solely in the checkout vs. vaulting credit cards with user accounts within individual stores hasn't helped the cause. Their mobile app, Shop, is now providing more value to your customers than you are. 
+When was the last time you logged-in to a brand's website? For me, it's been a while. Even though the brand or online store knows exactly who I am and what I've purchased before, there's rarely any value after entering my username and password. 
+
+![Allbirds.com Logged-In State](/static/img/allbirds-logged-in-account-page.png "Allbirds Account Page")
+
+Over the years, website personalization in ecommerce has morphed into a solution predicated on watching not listening to users. First we take every user action, page-view, click, transaction, etc, push it into a black-box, and in-return we get personalized product recommendations an automate discounting.
+
+
+
+
+
+Shopify's dedication to Shop Pay which lives solely in the checkout vs. vaulting credit cards with user accounts within individual stores hasn't helped the cause. Their mobile app, Shop, is now providing more value to your customers than you are. 
 
 If you're making monthly purchases, there's still very little reason to log-in. The number one reason you log-in and stay logged into Amazon is to access your saved shipping address and credit card information for an easy frictionless checkout. 
 
-Over the past decade, website personalization in ecommerce has morphed into a solution that is predicated on watching not listening to users. First we take every user action, page-view, click, transaction, etc push it into a black box and in-return our sites our *somewhat* personalized with product recommendations and discount codes. 
-
-
-
-
+First we take every user action, page-view, click, transaction, etc push it into a black box and in-return our sites our *somewhat* personalized with product recommendations and discount codes. 
 
 Was this item for you or was it a gift? Is this your size or a size of someone else? 
 
