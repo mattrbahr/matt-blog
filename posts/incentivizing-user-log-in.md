@@ -1,5 +1,5 @@
 ---
-title: "Create Valuable Account Pages to Incentivize User Log-in "
+title: "Incentivize User Log-in With Valuable Account Pages"
 date: 2020-07-27T14:49:23.990Z
 author: Matt Bahr
 summary: When was the last time you logged into a DTC's brand's website? For me,
