@@ -7,7 +7,7 @@ summary: When was the last time you logged into a DTC's brand's website? For me,
 tags:
   - ecommerce
 ---
-When was the last time you logged into a DTC's brand's website? It's been a while., right? When you log in, the brand or online store knows exactly who you are and what you've purchased before, yet there's rarely any value after entering my username and password. 
+When was the last time you logged into a DTC's brand's website? It's been a while, right? When you log in, the brand or online store knows exactly who you are and what you've purchased before, yet there's rarely any value after entering my username and password. 
 
 ![Allbirds.com Logged-In State](/static/img/allbirds-logged-in-account-page.png "Allbirds Account Page")
 
