@@ -39,11 +39,11 @@ Perhaps it would look like this (I'm no designer, [hit me up](https://twitter.co
 * Would this train people to go to Amazon first to get a code, then buy from your brand?
 
 ## Upside
-Traffic, sales, greater margins (Amazon’s average rake is 30%)
-Brands would get more data on Amazon PDP views via users who have installed the app, and could then optimize copy, discount code, and shipping time?
-Potential for brands to finally gain access to the profile & data of their Amazon-bound shoppers
-Insight to the customer purchase journey: did they view on DTC website, then purchase on Amazon? Where should the attribution really land?
+* Traffic, sales, greater margins (Amazon’s average rake is 30%)
+* Brands would get more data on Amazon PDP views via users who have installed the app, and could then optimize copy, discount code, and shipping time?
+* Potential for brands to finally gain access to the profile & data of their Amazon-bound shoppers
+* Insight to the customer purchase journey: did they view on DTC website, then purchase on Amazon? Where should the attribution really land?
 
-[Discuss on Twitter](https://twitter.com/mattrbahr)
-[View discussions](https://twitter.com/mattrbahr)
+[Discuss on Twitter](https://twitter.com/intent/tweet?in_reply_to=1288849590146523139)
+[View discussions](https://twitter.com/mattrbahr/status/1288849590146523139)
 (H/t to [@AVC](https://twitter.com/avc/) for the comment setup inspo)
