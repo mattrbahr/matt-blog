@@ -1,5 +1,5 @@
 ---
 name: Matt Bahr
-email: bahr@hey.com
+email: mattrbahr@gmail.com
 github: mattrbahr
 ---
