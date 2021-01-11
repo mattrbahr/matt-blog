@@ -7,7 +7,9 @@ eleventyNavigation:
   order: 3
 ---
 
-For the past two years, I've been diving deep into data analysis and SQL. I recently started sharing SQL queries that allow you to query your Shopify data on [Quantified.blog](https://quantified.blog). 
+
+## Quantified
+For the past three years, I've been diving deep into data analysis and SQL. I recently started sharing SQL queries that allow you to query your Shopify data on [Quantified.blog](https://quantified.blog). 
 
 If you want to chat anything data, reporting, you name it. [Don't hestitate to reach out](/contact/).
 
@@ -15,3 +17,4 @@ If you want to chat anything data, reporting, you name it. [Don't hestitate to r
 
 * [Occam's Razor by Avinash Kaushik](https://www.kaushik.net/avinash/)
 * [Kevin Hillstrom: MineThatData](https://blog.minethatdata.com)
+* [Data Driven Daily by Outlier.ai](https://outlier.ai/data-driven-daily/)
