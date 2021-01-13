@@ -7,7 +7,7 @@ eleventyNavigation:
   order: 3
 ---
 
-If you want to subscribe, you can so [here](/subscribe).
+If you want to be notified when I update this page, you can subscribe [here](/subscribe).
 
 ## Quantified
 For the past three years, I've been diving deep into data analysis and SQL. I recently started sharing SQL queries that allow you to query your Shopify data on [Quantified.blog](https://quantified.blog). 
