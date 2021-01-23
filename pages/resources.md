@@ -9,13 +9,14 @@ eleventyNavigation:
 
 If you want to be notified when I update this page, you can subscribe [here](/subscribe).
 
-## Quantified
-For the past three years, I've been diving deep into data analysis and SQL. I recently started sharing SQL queries that allow you to query your Shopify data on [Quantified.blog](https://quantified.blog). 
-
-If you want to chat anything data, reporting, you name it. [Don't hestitate to reach out](/contact/).
-
-## Recommended Blogs
+## Recommended Resources
+The below are blogs I recommend to anyone looking to get a deeper knowledge of quantitative ecommerce analysis.
 
 * [Occam's Razor by Avinash Kaushik](https://www.kaushik.net/avinash/)
-* [Kevin Hillstrom: MineThatData](https://blog.minethatdata.com)
 * [Data Driven Daily by Outlier.ai](https://outlier.ai/data-driven-daily/)
+* [Kevin Hillstrom: MineThatData](https://blog.minethatdata.com)
+
+## Quantified
+For the past four years, I've been diving deep SQL. Once Covid hit, I started sharing SQL queries that allow you to query your Shopify data on [Quantified.blog](https://quantified.blog). I haven't updated in a bit, but there's enough there to get you started.
+
+If you want to chat anything data, reporting, you name it. [Don't hestitate to reach out](/contact/).
